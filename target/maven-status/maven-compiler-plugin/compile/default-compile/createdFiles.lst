@@ -1,0 +1,9 @@
+ru\omb\services\RecursiveSolveTask.class
+ru\omb\Statistics.class
+ru\omb\services\WalkFileSolveTask.class
+ru\omb\Main.class
+ru\omb\services\PrintResult.class
+ru\omb\services\PrintSolveTask.class
+ru\omb\Output.class
+ru\omb\services\FileVisitorImpl.class
+ru\omb\services\UtilityParameters.class
